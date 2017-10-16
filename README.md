@@ -1,2 +1,2 @@
-# PressureTransientAnalysis
-Pressure transient analysis for oil and gas 
+# Pressure Transient Analysis
+Pressure transient analysis library for oil and gas 
