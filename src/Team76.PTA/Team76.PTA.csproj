@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataAnalysis.cs" />
     <Compile Include="Dimensionless.cs" />
     <Compile Include="InfiniteHomogenousReservoir.cs" />
     <Compile Include="InfiniteHomogenousReservoir2.cs" />
